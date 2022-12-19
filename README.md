@@ -1,4 +1,4 @@
-Bryan Finn, Dherya Jalan, Jaywoo Jo
+Jaywoo Jo, Bryan Finn, Dherya Jalan
 
 ## UIUC Courses and Instructor Data Website
 
@@ -55,6 +55,6 @@ After activating and entering virtual env, to install dependencies run ```pip in
 Open the file 'main.py' on your IDE (i.e. VS Code) and press run. Flask should then provide you with a link to run the application, such as "http://127.0.0.1:5000", which you can open in your browser.  
 
 ### Group Members and Roles
+**Jaywoo Jo:** Frontend, UI/UX design (HTML/CSS); Data manipulation using GPA & RMP CSV files (Pandas); Visualization creation and image adjustment for website integration (Matplotlib).  
 **Bryan Finn:** Frontend and initial application template design (HTML/CSS/Bootstrap/Flask); RMP & Reddit backend integration (Flask).  
-**Dherya Jalan:** Backend integration for GPA visualization (Flask); Visualization creation (Matplotlib).  
-**Jaywoo Jo:** Frontend and UI/UX design (HTML/CSS); Data manipulation using GPA & RMP CSV files (Pandas); Visualization creation and image adjustment for website integration (Matplotlib).  
+**Dherya Jalan:** Backend integration for visualization (Flask).
