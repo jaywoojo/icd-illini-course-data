@@ -57,4 +57,4 @@ Open the file 'main.py' on your IDE (i.e. VS Code) and press run. Flask should t
 ### Group Members and Roles
 **Jaywoo Jo:** Frontend, UI/UX design (HTML/CSS); Data manipulation using GPA & RMP CSV files (Pandas); Visualization creation and image adjustment for website integration (Matplotlib).  
 **Bryan Finn:** Frontend and initial application template design (HTML/CSS/Bootstrap/Flask); RMP & Reddit backend integration (Flask).  
-**Dherya Jalan:** Backend integration for visualization (Flask).
+**Dherya Jalan:** Backend integration for visualization (Flask); Visualization creation not used in final product (Matplotlib).
